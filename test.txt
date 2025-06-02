@@ -1,3 +1,3 @@
-Hello 
+Hello this is n newTest branch: 
 Lets learn something new today
 Today points to learn git commands
